@@ -20,7 +20,7 @@ Ensure all dependencies are installed using the `requirements.txt` file (see bel
 ## Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/DAPI-cell-analysis.git
+   git clone https://github.com/GreletLab/DAPI-cell-analysis.git
    cd DAPI-cell-analysis
    ```
 2. Install the required Python libraries:
